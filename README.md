@@ -2,6 +2,12 @@ BOWLING GAME, PART OF JMU's CS349: Developing Multimedia.
 
 This project was a duo project with co-developer Jacob Noel to construct a single-player 2D Bowling Game that capsulates an arcade-style experience with real-life bowling elements.
 
+HOW TO DOWNLOAD AND PLAY:
+
+1. Go to lib folder and Download BowlingApplication.jar
+
+2. Go to terminal and run (with java installed) java -jar BowlingApplication.jar
+
 PROJECT INCLUDES:
 
 ** Interactive Bowling Ball Sprite **
