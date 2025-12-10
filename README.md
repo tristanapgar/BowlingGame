@@ -8,7 +8,7 @@ HOW TO DOWNLOAD AND PLAY:
 
 2. Go to terminal and Run cd *YOUR DIRECTORY WITH JAR* (probably downloads)
 
-3. Run ls to make sure BowlingApplication.jar is in current directory
+3. Run ls (to make sure BowlingApplication.jar is in current directory)
   
 4. Run (with java installed on device) java -jar BowlingApplication.jar
 
