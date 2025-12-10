@@ -1,6 +1,6 @@
 BOWLING GAME, PART OF JMU's CS349: Developing Multimedia.
 
-This project was a duo project with co-developer, Jacob Noel, to construct a single-player 2D Bowling Game that capsulates an arcade-style experience with real-life bowling elements.
+This project was a duo project with co-developer Jacob Noel to construct a single-player 2D Bowling Game that capsulates an arcade-style experience with real-life bowling elements.
 
 PROJECT INCLUDES:
 
@@ -8,7 +8,11 @@ PROJECT INCLUDES:
 
 ** 10 Bowling Pins that move upon collision with the Bowling Ball **
 
-** PLAY TO DISCOVER ALL FEATURES **
+** Scoreboard that updates as you play **
+
+** Customizable Game Themes **
+
+** AND MORE! **
 
 As always, feel free to question, critique, and connect!
 https://w3stu.cs.jmu.edu/apgartb/portfolio/
